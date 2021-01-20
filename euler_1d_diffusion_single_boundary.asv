@@ -1,16 +1,16 @@
 L = .1; %length in meters
 n = 20; %number of simulation nodes
 T0 = 20+273; %initial temperature throughout bar in celcius
-t_final = 10000; %simulation time in seconds
-dt = .1;% time step in seconds
+t_final = 10; %simulation time in seconds
+dt = .001;% time step in seconds
 
 material = 1; %0=steel, 1=aluminum
 
 
 %plot selection
 animation_plot = false;
-over_xl_plot = true;
-over_x0_plot = false;
+over_xl_plot = false;
+over_x0_plot = true;
 over_time_plot = false;
 
 
@@ -53,6 +53,7 @@ for j = 1:length(t)
     T = T+dTdt*dt;
     newT = T;
     newT(1) = T1;
+    disp(T(1))
     first_node_temp(j) = T(1); %Append first node temperature value to list of first node temperature values
     end_temp(end+1) = T(end); %Append end node temperature value to list of end node temperature values
    %time(end+1) = j*dt; 
@@ -65,7 +66,6 @@ for j = 1:length(t)
         ylabel('Temperature (\circC)');
     end
 end
-first_node_temp(1) = T0;
 if over_time_plot
     figure(2);
     plot(x, newT, 'Linewidth', 3);
