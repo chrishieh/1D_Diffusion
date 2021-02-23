@@ -1,13 +1,11 @@
-L = .1; %length in meters
+L = .0127*2; %length in meters
 n = 20; %number of simulation nodes
 T0 = 20+273; %initial temperature throughout bar in celcius
-t_final = 10000; %simulation time in seconds
-dt = .1;% time step in seconds
+t_final = 30; %simulation time in seconds
+dt = .0025;% time step in seconds
 
 material = 1; %0=steel, 1=aluminum
 
-
-%plot selection
 animation_plot = false;
 over_xl_plot = true;
 over_x0_plot = false;
@@ -15,6 +13,7 @@ over_time_plot = false;
 
 
 T1 = 393; %Surface temp 1
+%T2 = 100+273; %Surface temp 2
 
 dx = L/n; %node side in meters
 
@@ -34,29 +33,29 @@ end
 
 
 
-x = dx/2:dx:L; %Seperate length of bar into mesh elements
-t = 0:dt:t_final; %Seperate simulation time into time steps
+x = dx/2:dx:L;
 
 T = ones(n,1) * T0;
+%size(x)
+%size(T)
 dTdt = zeros(n, 1);
 
-first_node_temp = zeros(2 + (t_final / dt), 1);
+t = 0:dt:t_final;
+first_node_temp = [T0];
 end_temp = [T0];
-time = 0:(t_final / dt) + 1;
-
+time = [0];
 for j = 1:length(t)
     for i = 2:n-1
-        dTdt(i) = alpha *(-(T(i) - T(i-1)) / dx^2 + (T(i+1)-T(i)) / dx^2); %Solving for temperature derivitive for interior nodes
+        dTdt(i) = alpha *(-(T(i) - T(i-1)) / dx^2 + (T(i+1)-T(i)) / dx^2);
     end
-    dTdt(1) = alpha *(-(T(1) - T1) / dx^2 + (T(2)-T(1)) / dx^2); %Solving for temperature derivitive for first node
-    dTdt(n) = alpha *(-(T(n) - T(n-1)) / dx^2); %Solving for temperature derivitive for final node
+    dTdt(1) = alpha *(-(T(1) - T1) / dx^2 + (T(2)-T(1)) / dx^2);
+    dTdt(n) = alpha *(-(T(n) - T(n-1)) / dx^2);
     T = T+dTdt*dt;
     newT = T;
     newT(1) = T1;
-    first_node_temp(j) = T(1); %Append first node temperature value to list of first node temperature values
-    end_temp(end+1) = T(end); %Append end node temperature value to list of end node temperature values
-   %time(end+1) = j*dt; 
-    
+    first_node_temp(end+1) = T(1);
+    end_temp(end+1) = T(end);
+    time(end+1) = j*dt;
     if animation_plot
         figure(1);
         plot(x, T, 'Linewidth', 3);
@@ -65,7 +64,6 @@ for j = 1:length(t)
         ylabel('Temperature (\circC)');
     end
 end
-first_node_temp(1) = T0;
 if over_time_plot
     figure(2);
     plot(x, newT, 'Linewidth', 3);
@@ -90,8 +88,7 @@ if over_x0_plot
     xlabel('Time (s)');
     ylabel('Temperature (\circC)');
 end
-%disp(first_node_temp(1))
-% T = table(first_node_temp);
-% writetable(T,'myDataxl.csv');
-% disp(max(first_node_temp))
-% disp(min(first_node_temp))
+T = table(end_temp);
+writetable(T,'myDataxl.csv');
+disp(max(end_temp))
+disp(min(end_temp))
