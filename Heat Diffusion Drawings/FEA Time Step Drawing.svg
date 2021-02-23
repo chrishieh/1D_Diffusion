@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="C:\Users\Christopher\Desktop\FEA Drawings.svg.2021_01_05_10_44_58.0.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="FEA Drawings.svg.2021_01_05_10_44_58.0.svg"
+   id="svg849"
+   version="1.1"
+   viewBox="0 0 600 200"
+   height="200mm"
+   width="600mm">
+  <defs
+     id="defs843">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1124"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1122"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1190"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1188" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2141"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2139"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2101"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2099"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2067"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2065"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1762" />
+    </marker>
+    <marker
+       inkscape:collect="always"
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1759" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:snap-text-baseline="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="253.89194"
+     inkscape:cx="1071.6471"
+     inkscape:zoom="0.49497475"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata846">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="51.971729"
+       x="48.947918"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       id="text1434"
+       y="68.602676"
+       x="50.081844"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="68.602676"
+         x="50.081844"
+         id="tspan1436"
+         sodipodi:role="line">20℃</tspan></text>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-3"
+       width="25.513393"
+       height="25.513393"
+       x="74.461311"
+       y="51.971729"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.595238"
+       y="68.602676"
+       id="text1434-9"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan1436-8"
+         x="75.595238"
+         y="68.602676">20℃</tspan></text>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-6"
+       width="25.513393"
+       height="25.513393"
+       x="99.974701"
+       y="51.971729"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="101.10863"
+       y="68.602676"
+       id="text1434-8"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan1436-3"
+         x="101.10863"
+         y="68.602676">20℃</tspan></text>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-8"
+       width="25.513393"
+       height="25.513393"
+       x="23.434519"
+       y="51.971729"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.269344"
+       y="63.877972"
+       id="text1434-1"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         y="63.877972"
+         x="26.269344"
+         id="tspan1489"
+         sodipodi:role="line">100℃</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         y="73.653076"
+         x="26.269344"
+         id="tspan1491"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1495"
+       y="68.280052"
+       x="27.559826"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="68.280052"
+         x="27.559826"
+         id="tspan1499"
+         sodipodi:role="line">Boundary</tspan><tspan
+         y="73.571716"
+         x="27.559826"
+         id="tspan1501"
+         sodipodi:role="line">    Value</tspan></text>
+    <path
+       id="path1503"
+       d="M 176.23905,83.113778 139.36568,59.736768 174.94977,36.359771"
+       style="fill:none;stroke:#000000;stroke-width:0.292597px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend)"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-0"
+       width="25.513393"
+       height="25.513393"
+       x="213.66743"
+       y="72.042152"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       y="72.042152"
+       x="239.18083"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412-3-2"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       y="72.042152"
+       x="264.69421"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412-6-9"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       y="72.042152"
+       x="188.15404"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412-8-9"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="translate(28.394201,-42.279429)"
+       id="g2467"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="162.71877"
+         y="125.39359"
+         id="text1434-1-7"><tspan
+           y="125.39359"
+           x="162.71877"
+           id="tspan1489-1"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">100℃</tspan><tspan
+           y="135.09497"
+           x="162.71877"
+           id="tspan1491-55"
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583" /></text>
+      <text
+         id="text1495-6"
+         y="130.68526"
+         x="163.6637"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           y="130.68526"
+           x="163.6637"
+           sodipodi:role="line"
+           id="tspan2449">Boundary</tspan><tspan
+           y="135.97691"
+           x="163.6637"
+           sodipodi:role="line"
+           id="tspan2451">    Value</tspan></text>
+    </g>
+    <g
+       transform="translate(133.91447,-48.399959)"
+       id="g1681"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g1673">
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="85.422615"
+           y="130.68526"
+           id="text1434-4"><tspan
+             y="130.68526"
+             x="85.422615"
+             id="tspan1661"
+             sodipodi:role="line">dT</tspan></text>
+        <text
+           id="text1665"
+           y="143.63095"
+           x="86.178574"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             y="143.63095"
+             x="86.178574"
+             id="tspan1663"
+             sodipodi:role="line">dt</tspan></text>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 85.233631,133.99256 H 99.407738"
+         id="path1667" />
+    </g>
+    <g
+       id="g1681-1"
+       transform="translate(160.65628,-48.570129)"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g1673-7">
+        <text
+           id="text1434-4-1"
+           y="130.68526"
+           x="85.422615"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan1661-5"
+             x="85.422615"
+             y="130.68526">dT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="86.178574"
+           y="143.63095"
+           id="text1665-7"><tspan
+             sodipodi:role="line"
+             id="tspan1663-6"
+             x="86.178574"
+             y="143.63095"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">dt</tspan></text>
+      </g>
+      <path
+         id="path1667-0"
+         d="M 85.233631,133.99256 H 99.407738"
+         style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g1681-8"
+       transform="translate(186.73664,-48.386509)"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         id="g1673-3">
+        <text
+           id="text1434-4-7"
+           y="130.68526"
+           x="85.422615"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             sodipodi:role="line"
+             id="tspan1661-3"
+             x="85.422615"
+             y="130.68526">dT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="86.178574"
+           y="143.63095"
+           id="text1665-3"><tspan
+             sodipodi:role="line"
+             id="tspan1663-4"
+             x="86.178574"
+             y="143.63095"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">dt</tspan></text>
+      </g>
+      <path
+         id="path1667-00"
+         d="M 85.233631,133.99256 H 99.407738"
+         style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       id="text1736"
+       y="38.840172"
+       x="55.646347"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="38.840172"
+         x="55.646347"
+         id="tspan1734"
+         sodipodi:role="line">Δx</tspan><tspan
+         id="tspan1738"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="52.069298"
+         x="55.646347"
+         sodipodi:role="line" /></text>
+    <path
+       id="path1740"
+       d="m 48.796726,40.443453 v 7.370535"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 74.007751,40.386756 v 7.370535"
+       id="path1740-6"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1757"
+       d="M 48.872423,44.238332 H 73.99576"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path2061"
+       d="M 293.05117,37.002002 317.6469,55.532767"
+       style="fill:none;stroke:#000000;stroke-width:0.209522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2141)"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path2063"
+       d="M 294.11153,88.405828 318.40715,66.944419"
+       style="fill:none;stroke:#000000;stroke-width:0.206801px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2101)"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <image
+       id="image1182"
+       xlink:href="data:image/png;base64,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 coLUVvPP3PzD8dpJ1FIqlXThwgWZpunMO65Wq6xJCQA99MorrzjbrXJL1PjXt3ePLAwik8moWCwq nU47z7lHGgLoLYLjOj788MPAr71y5YonyDUMI1Bj2d87zdxB4GRwJ+JqNf/MzX/TLOjQasuy9NRT T6larerll1/2ZL72JwIEAISndiM0SG4JN/dUuXaGVufzea2srBxZos890hBAbxEc1xF0WHStEltY WHCe82eTbeS9995r+ZpSqaSpqSnmFgID5IUXXpAUfP5ZTTwe9wyVKxaLgdbAvHLliorForLZrEZH R/XQQw85P3MnAgQAhMc9ZS5Ibgm3733ve579d999t+V7SqWSMpmMYrGYrl+/7uk0KZfLtAWBY0Jw XMcdd9zh2a8XyObzec3MzCibzerrX/+687y74doOfyO5VCppcnJSt2/f1p133tnRMQGEy52IK+j8 M7d218BcWlrSysqKEomEs6SSez30TjOhAgCaqyXikoLnlqhpd317y7I0OTmparWqX/3qV84IRHfm a/JMAMfj7/pdgEHkn/977do1PfrooxofH1elUtErr7yixcVFmaapubk5Xb58ue5xLMvS+fPnnR6f Zq5cuaLnnntO0uGwzWeeeUbValU7Ozss8QQMCHcirgceeODIWuWt+G+8vfXWW55EXalUSsViUbdu 3dLrr7+u+fl5xWIxLS8vO69x10+1NZNr9UuhUNDzzz+v5eXltoYAAgD+xp2IK5FIdDSFxTRN52aq v64ulUp68MEHtbq6qscee0zJZFLValULCwsaHx93jvHwww875ah3vZicnPQMvwYQAht1pdNpW1LD h2ma9sHBgW3btp1IJJznk8mkbdu2vbu7axuGYUuyc7nckePv7+83PX6j96F/stms5/+TzWb7XSQc o4ODAzsWi7U8b9t91OoR27brHn9jY+NIWUzTrFvnxGIxT90EdMt9fZNk7+7u9rtIPUddD/93IIzH wsKCc/zV1dW67Uq/jY0Nz2v29/ftg4MDp41KOxFhiWJd3wjDqhv44Q9/6FmX1M00TW1tbTk9uu41 7dbX1zU0NKSJiQlJ0u7urudOX83o6KhnuIxbLBZTLper+z4A/XHz5k3Pkm1hHlc67KnwHz+Xy9Wd 1+ye/+aucwzD8NRNAID23bhxI/RjuodW+1caqLUr/aanpz3Dsx988EHdddddWllZoZ0I9AjBcQPD w8MqFoueeYWmaSqbzWpvb8/T+JydnT2SlCubzerWrVue4TF+P//5z5VOp52KLxaLKZ1Oq1gsUuEB A+aPf/xjT4/rzmBvGIY2NjYa1gOpVErZbNa5gWcYhrLZLIExAITAvQpJL47pTq6VTqeb1t1vvPGG pzMlmUw27HgB0D3mHDcxPDysfD4faI26q1ev6urVq20dPx6Pe+YSAhhcc3NzTlKsXhgfH5dt2wNT HgCIqnbq4k7U6yVuZHR0tK3XA+gOPccAAAAAgMgjOAYAAAAARB7BMQAAAAAg8giOAQAAAACRR3AM AAAAAIg8gmMAAAAAQOQRHAMAAAAAIo/gGAAAAAAQeQTHAAAAAIDIIzgGOjQ/P6+hoaG6DwA4SRrV Zdvb2/0uWt9R1wM4LajrWyM4BgAAAABE3pBt23a/CwEAAAAAQD/RcwwAAAAAiDyCYwAAAABA5BEc AwAAAAAij+AYAAAAABB5BMcAAAAAgMgjOAYAAAAARB7BMQAAAAAg8giOAQAAAACRR3AMAAAAAIg8 gmMAAAAAQOQRHAMAAAAAIo/gGAAAAAAQeQTHAAAAAIDIIzgGAAAAAEQewTEAAAAAIPIIjgEAAAAA kUdwDAAAAACIPIJjAAAAAEDkERwDAAAAACKP4BgAAAAAEHkExwAAAACAyCM4BgAAAABEHsExAAAA ACDyCI4BAAAAAJFHcAwAAAAAiDyCYwAAAABA5BEcAwAAAAAij+AYAAAAABB5BMcAAAAAgMgjOAYA AAAARB7BMQAAAAAg8giOAQAAAACRR3AMAAAAAIg8gmMAAAAAQOQRHAMAAAAAIo/gGAAAAAAQeQTH AAAAAIDIIzgGAAAAAEQewTEAAAAAIPIIjgEAAAAAkUdwDAAAAACIPIJjAAAAAEDkERwDAAAAACKP 4BgAAAAAEHkExwAAAACAyCM4BgAAAABEHsExAAAAACDyCI4BAAAAAJFHcAwAAAAAiDyCYwAAAABA 5BEcAwAAAAAij+AYAAAAABB5BMcAAAAAgMgjOAYAAAAARB7BMQAAAAAg8giOAQAAAACRR3AMAAAA AIg8gmMAAAAAQOQRHAMAAAAAIo/gGAAAAAAQeQTHAAAAAIDIIzgGAAAAAEQewTEAAAAAIPL+P4Tq iSY+5wk7AAAAAElFTkSuQmCC "
+       preserveAspectRatio="none"
+       height="39.258396"
+       width="173.34642"
+       x="154.92613"
+       y="98.461075"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1186"
+       d="M 465.85079,84.189899 V 119.73675"
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1190)"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 48.919237,25.012292 v 7.370539"
+       id="path1740-8"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       id="path1740-6-1"
+       d="m 124.93029,24.955595 v 7.370539"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.459691px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.088612,28.807173 H 124.92634"
+       id="path1757-3"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       id="text1263"
+       y="24.07708"
+       x="59.909214"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="24.07708"
+         x="59.909214"
+         id="tspan1261"
+         sodipodi:role="line">0.5&quot; Steel Beam </tspan></text>
+    <text
+       id="text1410"
+       y="106.79609"
+       x="478.42279"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="106.79609"
+         x="478.42279"
+         id="tspan1408"
+         sodipodi:role="line">Example dt = .5s</tspan></text>
+    <rect
+       y="129.37424"
+       x="407.00546"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412-7-4"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       id="text1434-2-9"
+       y="146.00516"
+       x="408.13943"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="146.00516"
+         x="408.13943"
+         id="tspan1472"
+         sodipodi:role="line">20.4℃</tspan></text>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-3-0-4"
+       width="25.513393"
+       height="25.513393"
+       x="432.51889"
+       y="129.37424"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="433.6528"
+       y="146.00516"
+       id="text1434-9-8-6"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="146.00516"
+         x="433.6528"
+         id="tspan1474"
+         sodipodi:role="line">23.9℃</tspan></text>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-6-5-2"
+       width="25.513393"
+       height="25.513393"
+       x="458.03226"
+       y="129.37424"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="459.16623"
+       y="146.00516"
+       id="text1434-8-7-4"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="146.00516"
+         x="459.16623"
+         id="tspan1476"
+         sodipodi:role="line">44.1℃</tspan></text>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-8-0-1"
+       width="25.513393"
+       height="25.513393"
+       x="483.54568"
+       y="129.37424"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="486.2374"
+       y="140.44623"
+       id="text1434-1-0-1"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="140.44623"
+         x="486.2374"
+         id="tspan1489-7-7"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">100℃</tspan><tspan
+         y="150.22131"
+         x="486.2374"
+         id="tspan1491-5-7"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583" /></text>
+    <text
+       id="text1495-1-2"
+       y="146.00516"
+       x="486.38046"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="146.00516"
+         x="486.38046"
+         id="tspan1499-3-7"
+         sodipodi:role="line"
+         style="stroke-width:0.264583">Boundary</tspan><tspan
+         y="151.29681"
+         x="486.38046"
+         id="tspan1501-6-7"
+         sodipodi:role="line"
+         style="stroke-width:0.264583">   Value</tspan></text>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.489458"
+       id="rect1412-7-0-2"
+       width="70.352814"
+       height="31.564489"
+       x="370.45187"
+       y="46.746075"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <rect
+       y="46.746075"
+       x="336.60361"
+       height="31.674902"
+       width="33.848267"
+       id="rect1412-7-0-1-5"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.340095"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       id="g1406-4"
+       transform="translate(204.57693,-139.83902)"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <g
+         transform="matrix(1.357432,0,0,1.357432,-86.471171,-70.11658)"
+         id="g2445-5">
+        <text
+           id="text1434-1-7-8-1"
+           y="198.80846"
+           x="163.27692"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             sodipodi:role="line"
+             id="tspan1489-1-7-8"
+             x="163.27692"
+             y="198.80846">100℃</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+             sodipodi:role="line"
+             id="tspan1491-55-2-5"
+             x="163.27692"
+             y="208.50983" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="164.22185"
+           y="204.10011"
+           id="text1495-6-1-6"><tspan
+             y="204.10011"
+             x="164.22185"
+             id="tspan2457-6"
+             sodipodi:role="line">Boundary</tspan><tspan
+             y="209.39177"
+             x="164.22185"
+             id="tspan2459-0"
+             sodipodi:role="line">    Value</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1306-0"
+       transform="translate(410.52069,-138.54747)"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         id="text1434-2-1-0"
+         y="205.44688"
+         x="-37.540131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           y="205.44688"
+           x="-37.540131"
+           id="tspan2269-1"
+           sodipodi:role="line">20℃+</tspan></text>
+      <g
+         id="g1681-7-9"
+         transform="translate(-92.48108,68.422202)">
+        <g
+           id="g1673-79-5">
+          <text
+             id="text1434-4-8-2"
+             y="130.68526"
+             x="85.422615"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"><tspan
+               sodipodi:role="line"
+               id="tspan1661-39-3"
+               x="85.422615"
+               y="130.68526">dT</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="86.178574"
+             y="143.63095"
+             id="text1665-0-07"><tspan
+               sodipodi:role="line"
+               id="tspan1663-1-99"
+               x="86.178574"
+               y="143.63095"
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">dt</tspan></text>
+        </g>
+        <path
+           id="path1667-4-7"
+           d="M 85.233631,133.99256 H 99.407738"
+           style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="15.883533"
+         y="205.1772"
+         id="text1434-2-1-7-00"><tspan
+           y="205.1772"
+           x="15.883533"
+           id="tspan1287-1"
+           sodipodi:role="line"> dt</tspan></text>
+      <text
+         id="text1291-4"
+         y="204.89398"
+         x="9.7406092"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53059px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.238265"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53059px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.238265"
+           y="204.89398"
+           x="9.7406092"
+           id="tspan1289-4"
+           sodipodi:role="line">×</tspan></text>
+    </g>
+    <rect
+       y="46.746075"
+       x="440.80469"
+       height="31.564489"
+       width="70.352814"
+       id="rect1412-7-0-0-8"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.489458"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="translate(480.8735,-138.54747)"
+       id="g1306-8-4"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-37.540131"
+         y="205.44688"
+         id="text1434-2-1-6-6"><tspan
+           sodipodi:role="line"
+           id="tspan2269-8-7"
+           x="-37.540131"
+           y="205.44688">20℃+</tspan></text>
+      <g
+         transform="translate(-92.48108,68.422202)"
+         id="g1681-7-2-0">
+        <g
+           id="g1673-79-9-5">
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="85.422615"
+             y="130.68526"
+             id="text1434-4-8-5-9"><tspan
+               y="130.68526"
+               x="85.422615"
+               id="tspan1661-39-2-2"
+               sodipodi:role="line">dT</tspan></text>
+          <text
+             id="text1665-0-8-7"
+             y="143.63095"
+             x="86.178574"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+               y="143.63095"
+               x="86.178574"
+               id="tspan1663-1-9-7"
+               sodipodi:role="line">dt</tspan></text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 85.233631,133.99256 H 99.407738"
+           id="path1667-4-1-6" />
+      </g>
+      <text
+         id="text1434-2-1-7-6-5"
+         y="205.1772"
+         x="15.883533"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan1287-4-3"
+           x="15.883533"
+           y="205.1772"> dt</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53059px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.238265"
+         x="9.7406092"
+         y="204.89398"
+         id="text1291-5-7"><tspan
+           sodipodi:role="line"
+           id="tspan1289-8-8"
+           x="9.7406092"
+           y="204.89398"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53059px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.238265">×</tspan></text>
+    </g>
+    <rect
+       y="46.746075"
+       x="511.1575"
+       height="31.564489"
+       width="70.352814"
+       id="rect1412-7-0-5-3"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.489458"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <g
+       transform="translate(551.22631,-138.54747)"
+       id="g1306-7-1"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-37.540131"
+         y="205.44688"
+         id="text1434-2-1-5-0"><tspan
+           sodipodi:role="line"
+           id="tspan2269-6-3"
+           x="-37.540131"
+           y="205.44688">20℃+</tspan></text>
+      <g
+         transform="translate(-92.48108,68.422202)"
+         id="g1681-7-7-3">
+        <g
+           id="g1673-79-98-5">
+          <text
+             xml:space="preserve"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             x="85.422615"
+             y="130.68526"
+             id="text1434-4-8-7-4"><tspan
+               y="130.68526"
+               x="85.422615"
+               id="tspan1661-39-26-1"
+               sodipodi:role="line">dT</tspan></text>
+          <text
+             id="text1665-0-0-4"
+             y="143.63095"
+             x="86.178574"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+             xml:space="preserve"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+               y="143.63095"
+               x="86.178574"
+               id="tspan1663-1-90-5"
+               sodipodi:role="line">dt</tspan></text>
+        </g>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.665;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 85.233631,133.99256 H 99.407738"
+           id="path1667-4-0-3" />
+      </g>
+      <text
+         id="text1434-2-1-7-0-5"
+         y="205.1772"
+         x="15.883533"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan1287-7-0"
+           x="15.883533"
+           y="205.1772"> dt</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53059px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.238265"
+         x="9.7406092"
+         y="204.89398"
+         id="text1291-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan1289-2-1"
+           x="9.7406092"
+           y="204.89398"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.53059px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.238265">×</tspan></text>
+    </g>
+    <rect
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       id="rect1412-7"
+       width="25.513393"
+       height="25.513393"
+       x="214.09375"
+       y="24.794672"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="215.22768"
+       y="41.425617"
+       id="text1434-6"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan1436-9"
+         x="215.22768"
+         y="41.425617"
+         style="stroke-width:0.264583">20℃</tspan></text>
+    <rect
+       y="24.794672"
+       x="239.60713"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412-3-4"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       id="text1434-9-4"
+       y="41.425617"
+       x="240.74106"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="41.425617"
+         x="240.74106"
+         id="tspan1436-8-8"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">20℃</tspan></text>
+    <rect
+       y="24.794672"
+       x="265.12051"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412-6-0"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       id="text1434-8-3"
+       y="41.425617"
+       x="266.25446"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         y="41.425617"
+         x="266.25446"
+         id="tspan1436-3-6"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">20℃</tspan></text>
+    <rect
+       y="24.794672"
+       x="188.58034"
+       height="25.513393"
+       width="25.513393"
+       id="rect1412-8-4"
+       style="fill:#7b7b7b;fill-opacity:0;stroke:#000000;stroke-width:0.264999"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+    <text
+       id="text1434-1-9"
+       y="36.700912"
+       x="191.41516"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan1489-9"
+         x="191.41516"
+         y="36.700912"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:Cambria;-inkscape-font-specification:'Cambria, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">100℃</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1491-8"
+         x="191.41516"
+         y="46.476006"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7611px;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="192.70564"
+       y="41.102993"
+       id="text1495-7"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000"><tspan
+         sodipodi:role="line"
+         id="tspan1499-6"
+         x="192.70564"
+         y="41.102993"
+         style="stroke-width:0.264583">Boundary</tspan><tspan
+         sodipodi:role="line"
+         id="tspan1501-2"
+         x="192.70564"
+         y="46.394653"
+         style="stroke-width:0.264583">    Value</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker1124)"
+       d="M 406.89135,142.21354 H 86.178571 V 88.446429"
+       id="path1120"
+       inkscape:export-xdpi="1000"
+       inkscape:export-ydpi="1000" />
+  </g>
+</svg>

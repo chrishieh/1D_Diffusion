@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="400"
+   inkscape:export-xdpi="400"
+   inkscape:export-filename="C:\Users\Christopher\Desktop\bitmap.png"
+   width="146mm"
+   height="85mm"
+   viewBox="0 0 146 85"
+   version="1.1"
+   id="svg1036"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs1030">
+    <linearGradient
+       id="linearGradient847"
+       inkscape:collect="always">
+      <stop
+         id="stop843"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop845"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.99117643" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.06840213,0.0034205,-1.1956749e-4,-0.00239107,37.520869,-14.507268)"
+       r="55.257973"
+       fy="-5339.1855"
+       fx="392.92166"
+       cy="-5339.1855"
+       cx="392.92166"
+       id="radialGradient849"
+       xlink:href="#linearGradient847"
+       inkscape:collect="always" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:lockguides="false"
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="303.87758"
+     inkscape:cy="186.96563"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1033">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.264999"
+       id="path1599"
+       cx="35.919735"
+       cy="35.118694"
+       rx="9.4880686"
+       ry="16.437077"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <ellipse
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2478;stroke-opacity:1"
+       id="path1601"
+       cx="17.188456"
+       cy="30.88065"
+       rx="6.4814425"
+       ry="11.820356"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       style="fill:url(#radialGradient849);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 17.162527,19.062832 c 2.138156,0 110.515883,0 110.515883,0"
+       id="path1605"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       id="path1605-6"
+       d="m 17.018141,42.69814 c 2.138156,0 110.515889,0 110.515889,0"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <ellipse
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       ry="11.820356"
+       rx="6.4814425"
+       cy="30.869186"
+       cx="127.67696"
+       id="path1601-5"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.2478;stroke-opacity:1"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <rect
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.270243;stroke-opacity:1"
+       id="rect1637"
+       width="12.356821"
+       height="23.371887"
+       x="115.43243"
+       y="19.194706"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="13.895987"
+       y="32.715176"
+       id="text1641"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800"><tspan
+         sodipodi:role="line"
+         id="tspan1639"
+         x="13.895987"
+         y="32.715176"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">T<tspan
+   id="tspan923"
+   style="font-size:65%;baseline-shift:sub">b</tspan></tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       id="text1641-1"
+       y="32.876789"
+       x="51.653687"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800"><tspan
+         sodipodi:role="line"
+         id="tspan1666"
+         x="51.653687"
+         y="32.876789">T(x, 0) = T<tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.17222px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:sub"
+   id="tspan1668">0</tspan></tspan></text>
+    <rect
+       inkscape:export-ydpi="800"
+       inkscape:export-xdpi="800"
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-opacity:1"
+       id="rect1672"
+       width="0.94494045"
+       height="0.75595242"
+       x="5.7641368"
+       y="4.4412198" />
+    <path
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       id="path859"
+       d="M 17.3491,9.7706823 V 17.4247"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 128.54964,9.5911433 V 17.245161"
+       id="path859-2"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       id="path876"
+       d="M 17.424696,13.550444 H 128.73862"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       id="text1641-3"
+       y="10.198226"
+       x="71.402939"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="10.198226"
+         x="71.402939"
+         id="tspan1639-6"
+         sodipodi:role="line">L</tspan></text>
+    <path
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       id="path914"
+       d="m 17.01814,42.698139 v 3.868523"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <path
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.78918,42.566596 v 3.868523"
+       id="path914-8"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.868987"
+       y="52.130737"
+       id="text1641-3-3"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800"><tspan
+         sodipodi:role="line"
+         id="tspan1639-6-3"
+         x="11.868987"
+         y="52.130737"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">x=0</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       id="text1641-3-3-4"
+       y="51.94175"
+       x="122.7945"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="51.94175"
+         x="122.7945"
+         id="tspan1639-6-3-8"
+         sodipodi:role="line">x=L</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       inkscape:export-ydpi="800"
+       inkscape:export-xdpi="800"
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="46.878132"
+       y="63.727242"
+       id="text1641-3-3-4-4"><tspan
+         y="63.727242"
+         x="46.878132"
+         id="tspan876"
+         sodipodi:role="line">Universal Values:</tspan><tspan
+         y="72.546692"
+         x="46.878132"
+         id="tspan878"
+         sodipodi:role="line"></tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       inkscape:export-ydpi="800"
+       inkscape:export-xdpi="800"
+       id="text1641-0"
+       y="78.629387"
+       x="58.078239"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         y="78.629387"
+         x="58.078239"
+         id="tspan901"
+         sodipodi:role="line">T<tspan
+   id="tspan921"
+   style="font-size:65%;baseline-shift:sub">b</tspan> = 393k</tspan></text>
+    <text
+       inkscape:export-filename="C:\Users\Christopher\Desktop\path1599.png"
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Cambria;-inkscape-font-specification:'Cambria, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="58.173172"
+       y="70.894295"
+       id="text1641-0-9"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800"><tspan
+         style="stroke-width:0.264583"
+         sodipodi:role="line"
+         id="tspan901-7"
+         x="58.173172"
+         y="70.894295">T<tspan
+   id="tspan927"
+   style="font-size:65%;baseline-shift:sub">0</tspan> = 293k</tspan></text>
+  </g>
+</svg>
